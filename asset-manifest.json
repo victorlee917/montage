@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/montage/static/js/main.38ffb659.chunk.js",
-    "main.js.map": "/montage/static/js/main.38ffb659.chunk.js.map",
+    "main.js": "/montage/static/js/main.14dcce1d.chunk.js",
+    "main.js.map": "/montage/static/js/main.14dcce1d.chunk.js.map",
     "runtime-main.js": "/montage/static/js/runtime-main.566f0ef2.js",
     "runtime-main.js.map": "/montage/static/js/runtime-main.566f0ef2.js.map",
     "static/js/2.5b2c760a.chunk.js": "/montage/static/js/2.5b2c760a.chunk.js",
@@ -13,17 +13,19 @@
     "static/media/mockup1.20d96c88.jpeg": "/montage/static/media/mockup1.20d96c88.jpeg",
     "static/media/mockup2.48903dbf.jpeg": "/montage/static/media/mockup2.48903dbf.jpeg",
     "static/media/mojitto_1.a258e52e.png": "/montage/static/media/mojitto_1.a258e52e.png",
+    "static/media/mojitto_10.ff14f1d4.png": "/montage/static/media/mojitto_10.ff14f1d4.png",
     "static/media/mojitto_2.f03d729f.png": "/montage/static/media/mojitto_2.f03d729f.png",
     "static/media/mojitto_3.d9cdfcc3.png": "/montage/static/media/mojitto_3.d9cdfcc3.png",
     "static/media/mojitto_4.ac01c8a3.png": "/montage/static/media/mojitto_4.ac01c8a3.png",
     "static/media/mojitto_5.18c0e8ef.png": "/montage/static/media/mojitto_5.18c0e8ef.png",
     "static/media/mojitto_6.21e5af3a.png": "/montage/static/media/mojitto_6.21e5af3a.png",
     "static/media/mojitto_7.3be0a5bf.png": "/montage/static/media/mojitto_7.3be0a5bf.png",
+    "static/media/mojitto_9.1d443d3d.png": "/montage/static/media/mojitto_9.1d443d3d.png",
     "static/media/mojitto_main.923d1382.png": "/montage/static/media/mojitto_main.923d1382.png"
   },
   "entrypoints": [
     "static/js/runtime-main.566f0ef2.js",
     "static/js/2.5b2c760a.chunk.js",
-    "static/js/main.38ffb659.chunk.js"
+    "static/js/main.14dcce1d.chunk.js"
   ]
 }
