@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/montage/static/js/main.364feb66.chunk.js",
-    "main.js.map": "/montage/static/js/main.364feb66.chunk.js.map",
+    "main.js": "/montage/static/js/main.21dd6a16.chunk.js",
+    "main.js.map": "/montage/static/js/main.21dd6a16.chunk.js.map",
     "runtime-main.js": "/montage/static/js/runtime-main.566f0ef2.js",
     "runtime-main.js.map": "/montage/static/js/runtime-main.566f0ef2.js.map",
     "static/js/2.5b2c760a.chunk.js": "/montage/static/js/2.5b2c760a.chunk.js",
@@ -18,11 +18,12 @@
     "static/media/mojitto_4.ac01c8a3.png": "/montage/static/media/mojitto_4.ac01c8a3.png",
     "static/media/mojitto_5.18c0e8ef.png": "/montage/static/media/mojitto_5.18c0e8ef.png",
     "static/media/mojitto_6.21e5af3a.png": "/montage/static/media/mojitto_6.21e5af3a.png",
+    "static/media/mojitto_7.3be0a5bf.png": "/montage/static/media/mojitto_7.3be0a5bf.png",
     "static/media/mojitto_main.923d1382.png": "/montage/static/media/mojitto_main.923d1382.png"
   },
   "entrypoints": [
     "static/js/runtime-main.566f0ef2.js",
     "static/js/2.5b2c760a.chunk.js",
-    "static/js/main.364feb66.chunk.js"
+    "static/js/main.21dd6a16.chunk.js"
   ]
 }
