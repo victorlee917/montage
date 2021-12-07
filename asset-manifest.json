@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/montage/static/js/main.33ac7cfe.chunk.js",
-    "main.js.map": "/montage/static/js/main.33ac7cfe.chunk.js.map",
+    "main.js": "/montage/static/js/main.57c4ee2f.chunk.js",
+    "main.js.map": "/montage/static/js/main.57c4ee2f.chunk.js.map",
     "runtime-main.js": "/montage/static/js/runtime-main.566f0ef2.js",
     "runtime-main.js.map": "/montage/static/js/runtime-main.566f0ef2.js.map",
     "static/js/2.5b2c760a.chunk.js": "/montage/static/js/2.5b2c760a.chunk.js",
     "static/js/2.5b2c760a.chunk.js.map": "/montage/static/js/2.5b2c760a.chunk.js.map",
     "index.html": "/montage/index.html",
     "static/js/2.5b2c760a.chunk.js.LICENSE.txt": "/montage/static/js/2.5b2c760a.chunk.js.LICENSE.txt",
+    "static/media/about_1.7bd904dd.png": "/montage/static/media/about_1.7bd904dd.png",
+    "static/media/about_2.c64c7e4a.png": "/montage/static/media/about_2.c64c7e4a.png",
     "static/media/instagram.9836f120.png": "/montage/static/media/instagram.9836f120.png",
     "static/media/mockup.b1c5e7b2.gif": "/montage/static/media/mockup.b1c5e7b2.gif",
     "static/media/mockup1.20d96c88.jpeg": "/montage/static/media/mockup1.20d96c88.jpeg",
@@ -26,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.566f0ef2.js",
     "static/js/2.5b2c760a.chunk.js",
-    "static/js/main.33ac7cfe.chunk.js"
+    "static/js/main.57c4ee2f.chunk.js"
   ]
 }
