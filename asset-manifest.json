@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/montage/static/js/main.45ed6ee1.chunk.js",
-    "main.js.map": "/montage/static/js/main.45ed6ee1.chunk.js.map",
+    "main.js": "/montage/static/js/main.9404bbcb.chunk.js",
+    "main.js.map": "/montage/static/js/main.9404bbcb.chunk.js.map",
     "runtime-main.js": "/montage/static/js/runtime-main.566f0ef2.js",
     "runtime-main.js.map": "/montage/static/js/runtime-main.566f0ef2.js.map",
-    "static/js/2.f5520df2.chunk.js": "/montage/static/js/2.f5520df2.chunk.js",
-    "static/js/2.f5520df2.chunk.js.map": "/montage/static/js/2.f5520df2.chunk.js.map",
+    "static/js/2.0c1d03ef.chunk.js": "/montage/static/js/2.0c1d03ef.chunk.js",
+    "static/js/2.0c1d03ef.chunk.js.map": "/montage/static/js/2.0c1d03ef.chunk.js.map",
     "index.html": "/montage/index.html",
-    "static/js/2.f5520df2.chunk.js.LICENSE.txt": "/montage/static/js/2.f5520df2.chunk.js.LICENSE.txt",
+    "static/js/2.0c1d03ef.chunk.js.LICENSE.txt": "/montage/static/js/2.0c1d03ef.chunk.js.LICENSE.txt",
     "static/media/about_1.df02c9d5.png": "/montage/static/media/about_1.df02c9d5.png",
     "static/media/about_2.b2b6c2bc.png": "/montage/static/media/about_2.b2b6c2bc.png",
     "static/media/about_3.f4a7f10a.png": "/montage/static/media/about_3.f4a7f10a.png",
@@ -16,7 +16,6 @@
     "static/media/about_6.29e99e76.png": "/montage/static/media/about_6.29e99e76.png",
     "static/media/about_7.bcd36d75.png": "/montage/static/media/about_7.bcd36d75.png",
     "static/media/instagram.9836f120.png": "/montage/static/media/instagram.9836f120.png",
-    "static/media/mockup.b1c5e7b2.gif": "/montage/static/media/mockup.b1c5e7b2.gif",
     "static/media/mojitto_1.a258e52e.png": "/montage/static/media/mojitto_1.a258e52e.png",
     "static/media/mojitto_10.ff14f1d4.png": "/montage/static/media/mojitto_10.ff14f1d4.png",
     "static/media/mojitto_2.f03d729f.png": "/montage/static/media/mojitto_2.f03d729f.png",
@@ -27,11 +26,11 @@
     "static/media/mojitto_7.3be0a5bf.png": "/montage/static/media/mojitto_7.3be0a5bf.png",
     "static/media/mojitto_8.4e2c817b.MP4": "/montage/static/media/mojitto_8.4e2c817b.MP4",
     "static/media/mojitto_9.53352def.png": "/montage/static/media/mojitto_9.53352def.png",
-    "static/media/mojitto_main.6a7639be.mp4": "/montage/static/media/mojitto_main.6a7639be.mp4"
+    "static/media/mojitto_main.cca68604.gif": "/montage/static/media/mojitto_main.cca68604.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.566f0ef2.js",
-    "static/js/2.f5520df2.chunk.js",
-    "static/js/main.45ed6ee1.chunk.js"
+    "static/js/2.0c1d03ef.chunk.js",
+    "static/js/main.9404bbcb.chunk.js"
   ]
 }
