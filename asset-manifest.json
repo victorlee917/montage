@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/montage/static/js/main.654d5880.chunk.js",
-    "main.js.map": "/montage/static/js/main.654d5880.chunk.js.map",
+    "main.js": "/montage/static/js/main.512ed8d8.chunk.js",
+    "main.js.map": "/montage/static/js/main.512ed8d8.chunk.js.map",
     "runtime-main.js": "/montage/static/js/runtime-main.566f0ef2.js",
     "runtime-main.js.map": "/montage/static/js/runtime-main.566f0ef2.js.map",
     "static/js/2.44dd4902.chunk.js": "/montage/static/js/2.44dd4902.chunk.js",
@@ -15,7 +15,6 @@
     "static/media/about_5.47374bec.png": "/montage/static/media/about_5.47374bec.png",
     "static/media/about_6.29e99e76.png": "/montage/static/media/about_6.29e99e76.png",
     "static/media/about_7.bcd36d75.png": "/montage/static/media/about_7.bcd36d75.png",
-    "static/media/instagram.9836f120.png": "/montage/static/media/instagram.9836f120.png",
     "static/media/junwoolee_1.a82e7dbc.png": "/montage/static/media/junwoolee_1.a82e7dbc.png",
     "static/media/junwoolee_2.07e5e4a9.png": "/montage/static/media/junwoolee_2.07e5e4a9.png",
     "static/media/junwoolee_3.3a0dcab2.png": "/montage/static/media/junwoolee_3.3a0dcab2.png",
@@ -40,6 +39,6 @@
   "entrypoints": [
     "static/js/runtime-main.566f0ef2.js",
     "static/js/2.44dd4902.chunk.js",
-    "static/js/main.654d5880.chunk.js"
+    "static/js/main.512ed8d8.chunk.js"
   ]
 }
