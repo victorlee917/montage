@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.772119b4.chunk.js",
-    "main.js.map": "/static/js/main.772119b4.chunk.js.map",
+    "main.js": "/static/js/main.71b091ec.chunk.js",
+    "main.js.map": "/static/js/main.71b091ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba3bbe6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba3bbe6c.js.map",
     "static/js/2.ab57efc7.chunk.js": "/static/js/2.ab57efc7.chunk.js",
@@ -23,7 +23,8 @@
     "static/media/junwoolee_5.8d62c3ab.png": "/static/media/junwoolee_5.8d62c3ab.png",
     "static/media/junwoolee_6.557fe90e.png": "/static/media/junwoolee_6.557fe90e.png",
     "static/media/junwoolee_7.5973ecf5.png": "/static/media/junwoolee_7.5973ecf5.png",
-    "static/media/junwoolee_main.98978300.png": "/static/media/junwoolee_main.98978300.png",
+    "static/media/junwoolee_main.40f55945.png": "/static/media/junwoolee_main.40f55945.png",
+    "static/media/junwoolee_main.a2ef3f8d.gif": "/static/media/junwoolee_main.a2ef3f8d.gif",
     "static/media/mojitto_1.a258e52e.png": "/static/media/mojitto_1.a258e52e.png",
     "static/media/mojitto_10.ff14f1d4.png": "/static/media/mojitto_10.ff14f1d4.png",
     "static/media/mojitto_2.f03d729f.png": "/static/media/mojitto_2.f03d729f.png",
@@ -39,6 +40,6 @@
   "entrypoints": [
     "static/js/runtime-main.ba3bbe6c.js",
     "static/js/2.ab57efc7.chunk.js",
-    "static/js/main.772119b4.chunk.js"
+    "static/js/main.71b091ec.chunk.js"
   ]
 }
