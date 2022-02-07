@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.cf1f62e3.chunk.js",
-    "main.js.map": "/static/js/main.cf1f62e3.chunk.js.map",
+    "main.js": "/static/js/main.9a634ef4.chunk.js",
+    "main.js.map": "/static/js/main.9a634ef4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba3bbe6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba3bbe6c.js.map",
     "static/js/2.3d9f30a9.chunk.js": "/static/js/2.3d9f30a9.chunk.js",
@@ -15,6 +15,12 @@
     "static/media/about_5.47374bec.png": "/static/media/about_5.47374bec.png",
     "static/media/about_6.29e99e76.png": "/static/media/about_6.29e99e76.png",
     "static/media/about_7.bcd36d75.png": "/static/media/about_7.bcd36d75.png",
+    "static/media/gandanman_1.6fa77e4b.png": "/static/media/gandanman_1.6fa77e4b.png",
+    "static/media/gandanman_2.a87f585e.png": "/static/media/gandanman_2.a87f585e.png",
+    "static/media/gandanman_3.b9b24790.png": "/static/media/gandanman_3.b9b24790.png",
+    "static/media/gandanman_4.bcba513b.png": "/static/media/gandanman_4.bcba513b.png",
+    "static/media/gandanman_5.cd8623fb.png": "/static/media/gandanman_5.cd8623fb.png",
+    "static/media/gandanman_6.1156b74c.png": "/static/media/gandanman_6.1156b74c.png",
     "static/media/junwoolee_1.8982798b.png": "/static/media/junwoolee_1.8982798b.png",
     "static/media/junwoolee_10.853a2c0a.png": "/static/media/junwoolee_10.853a2c0a.png",
     "static/media/junwoolee_2.07e5e4a9.png": "/static/media/junwoolee_2.07e5e4a9.png",
@@ -40,6 +46,6 @@
   "entrypoints": [
     "static/js/runtime-main.ba3bbe6c.js",
     "static/js/2.3d9f30a9.chunk.js",
-    "static/js/main.cf1f62e3.chunk.js"
+    "static/js/main.9a634ef4.chunk.js"
   ]
 }
