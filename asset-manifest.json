@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.861eba8a.chunk.js",
-    "main.js.map": "/static/js/main.861eba8a.chunk.js.map",
+    "main.js": "/static/js/main.308ded8f.chunk.js",
+    "main.js.map": "/static/js/main.308ded8f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba3bbe6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba3bbe6c.js.map",
     "static/js/2.321bbd85.chunk.js": "/static/js/2.321bbd85.chunk.js",
@@ -48,6 +48,8 @@
     "static/media/guridang_8b.06e8275f.png": "/static/media/guridang_8b.06e8275f.png",
     "static/media/guridang_9.d2b766b5.png": "/static/media/guridang_9.d2b766b5.png",
     "static/media/guridang_bg6.ca626ba3.jpeg": "/static/media/guridang_bg6.ca626ba3.jpeg",
+    "static/media/guridang_main.b0c771ce.gif": "/static/media/guridang_main.b0c771ce.gif",
+    "static/media/guridang_main.c40019e8.png": "/static/media/guridang_main.c40019e8.png",
     "static/media/junwoolee_1.8982798b.png": "/static/media/junwoolee_1.8982798b.png",
     "static/media/junwoolee_10.853a2c0a.png": "/static/media/junwoolee_10.853a2c0a.png",
     "static/media/junwoolee_2.07e5e4a9.png": "/static/media/junwoolee_2.07e5e4a9.png",
@@ -88,6 +90,6 @@
   "entrypoints": [
     "static/js/runtime-main.ba3bbe6c.js",
     "static/js/2.321bbd85.chunk.js",
-    "static/js/main.861eba8a.chunk.js"
+    "static/js/main.308ded8f.chunk.js"
   ]
 }
