@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.843c3411.chunk.js",
-    "main.js.map": "/static/js/main.843c3411.chunk.js.map",
+    "main.js": "/static/js/main.df46f50f.chunk.js",
+    "main.js.map": "/static/js/main.df46f50f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba3bbe6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba3bbe6c.js.map",
     "static/js/2.321bbd85.chunk.js": "/static/js/2.321bbd85.chunk.js",
@@ -23,7 +23,6 @@
     "static/media/gandanman_6.1156b74c.png": "/static/media/gandanman_6.1156b74c.png",
     "static/media/gandanman_main.18a8e014.png": "/static/media/gandanman_main.18a8e014.png",
     "static/media/gandanman_main.4f4db3e3.gif": "/static/media/gandanman_main.4f4db3e3.gif",
-    "static/media/guridang2_main.36b554fa.gif": "/static/media/guridang2_main.36b554fa.gif",
     "static/media/guridang_1.b03d1a4d.png": "/static/media/guridang_1.b03d1a4d.png",
     "static/media/guridang_10.eb669fbf.png": "/static/media/guridang_10.eb669fbf.png",
     "static/media/guridang_10a.42388df5.png": "/static/media/guridang_10a.42388df5.png",
@@ -33,6 +32,7 @@
     "static/media/guridang_12.e33b1558.png": "/static/media/guridang_12.e33b1558.png",
     "static/media/guridang_12a.2e77c0b2.png": "/static/media/guridang_12a.2e77c0b2.png",
     "static/media/guridang_13.ed972768.png": "/static/media/guridang_13.ed972768.png",
+    "static/media/guridang_13a.9ddd15c7.png": "/static/media/guridang_13a.9ddd15c7.png",
     "static/media/guridang_2.0a2fa13c.png": "/static/media/guridang_2.0a2fa13c.png",
     "static/media/guridang_2a.5552aa08.png": "/static/media/guridang_2a.5552aa08.png",
     "static/media/guridang_3.8906e489.png": "/static/media/guridang_3.8906e489.png",
@@ -48,9 +48,8 @@
     "static/media/guridang_8a.fcde7f03.png": "/static/media/guridang_8a.fcde7f03.png",
     "static/media/guridang_8b.06e8275f.png": "/static/media/guridang_8b.06e8275f.png",
     "static/media/guridang_9.d2b766b5.png": "/static/media/guridang_9.d2b766b5.png",
-    "static/media/guridang_bg6.ca626ba3.jpeg": "/static/media/guridang_bg6.ca626ba3.jpeg",
-    "static/media/guridang_main.b0c771ce.gif": "/static/media/guridang_main.b0c771ce.gif",
-    "static/media/guridang_main.c40019e8.png": "/static/media/guridang_main.c40019e8.png",
+    "static/media/guridang_main.1c0afc8f.gif": "/static/media/guridang_main.1c0afc8f.gif",
+    "static/media/guridang_main.99b43f8b.png": "/static/media/guridang_main.99b43f8b.png",
     "static/media/junwoolee_1.8982798b.png": "/static/media/junwoolee_1.8982798b.png",
     "static/media/junwoolee_10.853a2c0a.png": "/static/media/junwoolee_10.853a2c0a.png",
     "static/media/junwoolee_2.07e5e4a9.png": "/static/media/junwoolee_2.07e5e4a9.png",
@@ -91,6 +90,6 @@
   "entrypoints": [
     "static/js/runtime-main.ba3bbe6c.js",
     "static/js/2.321bbd85.chunk.js",
-    "static/js/main.843c3411.chunk.js"
+    "static/js/main.df46f50f.chunk.js"
   ]
 }
